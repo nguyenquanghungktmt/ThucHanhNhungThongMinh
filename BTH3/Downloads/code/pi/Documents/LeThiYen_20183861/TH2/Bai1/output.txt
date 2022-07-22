@@ -1,0 +1,6 @@
+
+Nhan duoc tin hieu SIGUSR1 lan thu  0
+Nhan duoc tin hieu SIGUSR1 lan thu  0
+Nhan duoc tin hieu SIGUSR1 lan thu  1
+Nhan duoc tin hieu SIGUSR1 lan thu  2
+Nhan duoc tin hieu SIGUSR1 lan thu  3
